@@ -1,0 +1,7 @@
+.firstBody{
+    font-weight:900;
+  }
+  .check{
+    display: flex;
+    justify-content: space-evenly;
+  }
